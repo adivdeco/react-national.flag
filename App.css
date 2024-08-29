@@ -1,0 +1,94 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header-content{
+    height: 6vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(172, 161, 161);
+    padding: 0vw 1vw 0vw 1vw;
+    box-shadow: 0 0 20  ;
+    position: relative;
+}
+
+.titel{
+    margin-left: 3vw;
+    text-decoration: none;
+    font-size: 3vw;
+}
+.day{
+    margin-right: 4vw;
+    text-decoration: none;
+    font-size: 1.4vw;
+    
+}
+.main{
+    background-color:#232323;
+    padding: 2vw;
+    overflow: hidden;
+    min-height: 100vh;
+}
+.container1{
+    /* background-color: rgb(245, 245, 90); */
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 2vw 3vw 4vw 0vw;    
+}
+.search-box input{
+    font-size: 1.5vw;
+    height: 2vw;
+    border-radius: 10px;
+    border: 0.4px solid black;
+    font-family: cursive;
+}
+
+.listbox select{
+    height: 2vw;
+    width: 10vw;
+    border-radius: 10px;
+
+}
+
+.countery-box{
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #121211;
+    padding: 1vw;
+}
+.img{
+    background-color: violet;
+    height: 14vw;
+    width: 100%;
+    
+    
+}
+.card{
+    position: relative;
+    height: 25vw;
+    width: 20vw;
+    background-color: yellowgreen;
+    line-height: 1vw;
+    border-radius: 10px;
+    margin-top:2vw;
+    overflow: hidden;
+
+}
+.data{
+    padding-left: 1vw;
+    ;
+}
+
+
+
+
+
+
+
+
+
+
