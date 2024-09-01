@@ -10,7 +10,7 @@ export default function Counterycard() {
         </div>
        <div className="data">
        <h2>INDIA</h2>
-        <p>Popularity: 2000000</p>
+        <p>Popularity:400</p>
        <p> REGION:Asia</p>
        <p>Capital:New-Delhi</p>
        </div>
