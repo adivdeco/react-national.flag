@@ -17,7 +17,7 @@ export default function Counterycard(
           <img src={ flag } alt= {name} srcSet="" />
         </div>
         <div className="data">
-          <h2>ljhx{ name}</h2>
+          <h2>harsh{ name}</h2>
           <p>population:{population.toLocaleString('en-IN')}</p>
           <p> currency:{ currency}</p>
           <p>Capital:{capital}</p>
